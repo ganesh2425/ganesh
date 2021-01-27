@@ -1,2 +1,4 @@
-console.log("first js program on vs code   ");
-console.log("it is working   ");
+const numbers = [1,2,3,4];
+numbrrs.push(3,4);
+
+console.log(numbers);
