@@ -6,6 +6,6 @@ let products = [
 ];
 
 
-let newMobile_50k = products.map();
+let newMobile_50k = products.forEach();
 
 console.log(newMobile_50k);
